@@ -22,4 +22,8 @@ public class Item {
 	public double getRate() {
 		return this.rate;
 	}
+
+	public double getTarifa() {
+		return 0.01;
+	}
 }
